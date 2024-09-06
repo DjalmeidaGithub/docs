@@ -43,7 +43,7 @@ For detailed contributing guidelines, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need further assistance, feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/diamantinoalmeida/).
 
 ---
 
